@@ -1,0 +1,20 @@
+{
+    "name": "P&L pivot Modded",
+    "type": "visualization",
+    "description": "Profit & Loss reporting with color and font customizations.\n Version: MODDED",
+    "version": "MODDED",
+    "icon": "pivot-table",
+    "preview": "qlik-smart-pivot-modded.png",
+  "author": {
+    "name": "Dan Ioan Feherdi",
+    "email": "dan.feherdi@itreview.it"
+  },
+    "__next": true,
+    "bundle": {
+        "id": "itr-visualization-bundle",
+        "name": "ITReview Visualization bundle",
+        "description": "This is a set of supported objects that expands the visualization capabilities of Qlik Sense. These can be used in addition to the objects found under 'Charts'. For support conditions and limitations, see the documentation."
+    },
+    "installer": "none",
+    "supernova": true
+}
