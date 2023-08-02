@@ -15237,3 +15237,5 @@ define(["qlik"], (function (e) {
     ])
 }
 ));
+
+alert('ok)
